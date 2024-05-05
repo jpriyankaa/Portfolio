@@ -15,21 +15,17 @@
 
 •	Master of Business Administration | MBA - Finance
 
-Osmania University | Hyderabad | 2019 - 2021 | CGPA-7.14 - First class with Distinction.
+Osmania University | Hyderabad | 2019 - 2021 | CGPA-7.14 | First class with Distinction.
 
 •	Bachelor of Technology | B. Tech – ECE
 
-Jawaharlal Nehru Technological University | Hyderabad | 2013 - 2018 | 60% - First class.
+Jawaharlal Nehru Technological University | Hyderabad | 2013 - 2018 | 60% | First class.
 
 ## Work Experience:
 
 •	Value Labs |  Hyderabad | Nov 2021 - Feb 2024 ( 2.3 Years )
 
 Executive – Business Finance - Accounts Receivables.
-
-a) Bid Pricing-Job offer approvals, Offer deviation analysis, Project pricing (Onsite, near shore & Offshore), financial performance indicator (FPI), HRIS.
-
-b) Collections- SAP FI Posting business transactions, handling Rest-of-the World clients follow-up E-mails, Preparing outstanding statements & statement of accounts (SOA).
 
 ## Projects:
 
@@ -49,9 +45,9 @@ b) Collections- SAP FI Posting business transactions, handling Rest-of-the World
 
 • KPMG Australia - Data Analytics Consulting Virtual Internship on Forage.
 
-## Data Science Blog:
 
-https://medium.com/@priyankaaj
+
+[Data Science Blog] (https://medium.com/@priyankaaj)
 
 
 
