@@ -13,17 +13,17 @@
 
 ## Education:
 
-•	Master of Business Administration | MBA - Finance
+•	Master of Business Administration, MBA - Finance
 
-Osmania University | Hyderabad | 2019 - 2021 | CGPA-7.14 | First class with Distinction.
+   Osmania University, Hyderabad , 2019 - 2021 , CGPA-7.14 - First class with Distinction.
 
-•	Bachelor of Technology | B. Tech – ECE
+•	Bachelor of Technology , B. Tech – ECE
 
-Jawaharlal Nehru Technological University | Hyderabad | 2013 - 2018 | 60% | First class.
+Jawaharlal Nehru Technological University , Hyderabad , 2013 - 2018 , 60% - First class.
 
 ## Work Experience:
 
-•	Value Labs |  Hyderabad | Nov 2021 - Feb 2024 ( 2.3 Years )
+**Value Labs , Hyderabad , Nov 2021 - Feb 2024 ( 2.3 Years )**
 
 Executive – Business Finance - Accounts Receivables.
 
